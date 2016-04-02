@@ -1,1 +1,1 @@
-test for the survivejs [webpack](http://survivejs.com/webpack/)  tutorial
+test for the survivejs [webpack tutorial](http://survivejs.com/webpack/)  
